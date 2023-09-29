@@ -1,7 +1,11 @@
+import Navbar from "../components/Navbar";
+
+
 function TechnologyPage() {
   return (
     <div>
-      <h1>TechnologyPage</h1>
+      <Navbar/>
+      <h1>echnology Details</h1>
     </div>
   );
 }
